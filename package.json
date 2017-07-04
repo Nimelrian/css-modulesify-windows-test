@@ -1,0 +1,16 @@
+{
+  "name": "css-modulesify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.3.0",
+    "css-modulesify": "css-modules/css-modulesify#fix-windows-abs-path",
+    "gulp": "^3.9.1"
+  }
+}
